@@ -1,0 +1,52 @@
+name: recipes_sharing
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+  
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^5.0.0
+  eva_icons_flutter: ^3.0.0
+  firebase_core: ^1.1.0
+  firebase_auth: ^1.1.3
+  http: ^0.13.3
+  email_auth: ^0.0.1+3
+  hive: ^2.0.4
+  path_provider: ^2.0.1
+  loading_indicator: ^2.0.1
+  percent_indicator: "^2.1.7+2"
+  flutter_svg: ^0.22.0
+  flutter_vlc_player: ^6.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    -  'assets/'
+  fonts:
+    - family: Gambetta-Regular
+      fonts:
+        - asset: fonts/Gambetta-Regular.ttf
+    - family: Gambetta-Medium
+      fonts:
+        - asset: fonts/Gambetta-Medium.ttf
+    - family: Gambetta-Semibold
+      fonts:
+        - asset: fonts/Gambetta-Semibold.ttf
+    - family: Bold
+      fonts:
+        - asset: fonts/TestGeograph-Bold.ttf
+    - family: Regular
+      fonts:
+        - asset: fonts/TestGeograph-Regular.ttf
+    - family: Medium
+      fonts:
+        - asset: fonts/TestGeograph-Medium.ttf

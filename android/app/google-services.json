@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862404737739",
+    "project_id": "best-ever-recipes-app",
+    "storage_bucket": "best-ever-recipes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862404737739:android:d01b958e39f8aedf0d394e",
+        "android_client_info": {
+          "package_name": "com.example.recipes_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862404737739-insuoahn80stmnf7g9eae7nfh19uccdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpbtZDDm9M0W5ug8qfxShakT6VuqASnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862404737739-insuoahn80stmnf7g9eae7nfh19uccdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
